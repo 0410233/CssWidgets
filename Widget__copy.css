@@ -1,0 +1,14 @@
+.w-copy {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: 20px 0;
+}
+
+.w-copy .copyright {
+    margin: 0;
+    font-size: 14px;
+}

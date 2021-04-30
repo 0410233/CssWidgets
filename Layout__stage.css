@@ -1,0 +1,34 @@
+/*!
+ * .layout-stage 类用于限定宽度
+ */
+.stage {
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+@media (min-width: 576px) {
+  .stage {
+    max-width: 540px;
+  }
+}
+
+@media (min-width: 768px) {
+  .stage {
+    max-width: 720px;
+  }
+}
+
+@media (min-width: 992px) {
+  .stage {
+    max-width: 960px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .stage {
+    max-width: 1140px;
+  }
+}

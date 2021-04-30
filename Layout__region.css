@@ -1,0 +1,21 @@
+.region {
+    display: block;
+    width: 100%;
+    max-width: 1920px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.region--top {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.region--bottom {
+    display: none;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+}

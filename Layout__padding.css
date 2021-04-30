@@ -1,0 +1,13 @@
+.is-padding {
+    padding: 20px;
+}
+
+.is-padding-inline {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.is-padding-block {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
